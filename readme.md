@@ -16,14 +16,14 @@ The files used to construct the databases were pulled from [here](https://eddb.i
     - [ ] MongoDB
     - [x] Neo4j
     - [ ] MariaDB
-* Optimize similar queries for all of those databases
-    - [ ] List of queries here
-    - [ ] List of queries here
-    - [ ] List of queries here
-    - [ ] List of queries here
-    - [ ] List of queries here
-    - [ ] List of queries here
-    - [ ] List of queries here
-    - [ ] List of queries here
-    - [ ] List of queries here
-    - [ ] List of queries here
+* Optimize similar queries for all of those databases.
+    - [ ] Count how many systems each faction controls.
+    - [ ] Return the commodity with the highest profit margin.
+    - [ ] Retrun the system that sells a given commodity for the lowest price.
+    - [ ] Retrun the system that buys a given commodity for the highest price.
+    - [ ] Given a system and a range, find the best commodity to buy and sell locally.
+    - [ ] Locate the nearest system that provides certain services.
+    - [ ] Locate nearest station with a black market.
+    - [ ] Return the rarest module and where to buy it.
+    - [ ] Find the best path between two systems given the jump range of a ship.
+    - [ ] Build aggregation of listings data to display, average cost of a given item, total supply, total demand, etc.
