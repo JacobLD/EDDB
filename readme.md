@@ -1,6 +1,8 @@
 # Welcome to the EDDB Database aggregation and visualization Project #
 
-This is in fullfillment of a project for CS 523(Topics in Database Systems) at Western Illinois University
+This is in fullfillment of the final project for CS 523(Topics in Database Systems) at Western Illinois University
+
+By: Jacob Dyer and Luke Duball
 
 ## Project Overview ##
 
@@ -40,6 +42,9 @@ Within each system is one or more stations. Stations are hubs dedicated to landi
 ## Results ##
 
 ### Query Comparisons ###
+TBD
+
+### Data Visualization ###
 TBD
 
 ## Closing Notes ##
