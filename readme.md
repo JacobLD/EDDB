@@ -13,7 +13,11 @@ The game is proceduarally generated. When a player 'jumps' to a new system, one 
 
 The files used to construct the databases were pulled from [here](https://eddb.io/api). The data is updated daily when the official EDDB does its nightly data dump. If you want to recreate the results found in this project you can download the files we used [here](https://drive.google.com/file/d/1vBIUQmErZzgLlenMJXuB4oJvEPDopNGg/view?usp=sharing). To replicate simply extract the 'Data' folder into the root of the project and go from there.
 
-## Project Goals ##
+![All Systems](https://github.com/JacobLD/EDDB/blob/master/Img/all_systems.PNG)
+
+The systems file contains all the populated systems in ED. There are over 20,000 and can be seen grouped in a long arm cluster. This are the only systems we care for because these are the systems that involve commerce!
+
+# Project Goals #
 * Implement similar data across multiple database systems
     - [ ] MongoDB
     - [x] Neo4j
@@ -37,5 +41,4 @@ The files used to construct the databases were pulled from [here](https://eddb.i
 TBD
 
 ## Closing Notes ##
-
-
+TBD
