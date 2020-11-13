@@ -15,7 +15,9 @@ The files used to construct the databases were pulled from [here](https://eddb.i
 
 ![All Systems](https://github.com/JacobLD/EDDB/blob/master/Img/all_systems.PNG)
 
-The systems file contains all the populated systems in ED. There are over 20,000 and can be seen grouped in a long arm cluster. This are the only systems we care for because these are the systems that involve commerce!
+The systems file contains all the populated systems in ED. There are over 20,000 and can be seen grouped in a long arm cluster. These are the only systems we care for because these are the systems that involve commerce!
+
+Within each system is one or more stations. Stations are hubs dedicated to landing space crafts and spending space credits on various goods. A player can buy commodities to do trading in addition to buying modules for their ship and even new ship if they have enough credits.  
 
 # Project Goals #
 * Implement similar data across multiple database systems
