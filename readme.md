@@ -23,29 +23,21 @@ Within each system is one or more stations. Stations are hubs dedicated to landi
 
 # Project Goals #
 * Implement similar data across multiple database systems
-    - [ ] MongoDB
+    - [x] MongoDB
     - [x] Neo4j
-    - [ ] MariaDB
+    - [x] MariaDB
 * Optimize similar queries for all of those databases.
-    - [ ] Count how many systems each faction controls.
-    - [ ] Return the commodity with the highest profit margin.
-    - [ ] Retrun the system that sells a given commodity for the lowest price.
-    - [ ] Retrun the system that buys a given commodity for the highest price.
-    - [ ] Given a system and a range, find the best commodity to buy and sell locally.
-    - [ ] Locate the nearest system that provides certain services.
-    - [ ] Locate nearest station with a black market.
-    - [ ] Return the rarest module and where to buy it.
-    - [ ] Find the best path between two systems given the jump range of a ship.
-    - [ ] Build aggregation of listings data to display, average cost of a given item, total supply, total demand, etc.
+    - [x] Count how many systems each faction controls.
+    - [x] Return the commodity with the highest profit margin.
+    - [x] Retrun the system that sells a given commodity for the lowest price.
+    - [x] Retrun the system that buys a given commodity for the highest price.
+    - [x] Given a system and a range, find the best commodity to buy and sell locally.
+    - [x] Locate the nearest system that provides certain services.
+    - [x] Find all systems that are within X lightyears of System Y.
+    - [x] Return the rarest module and where to buy it.
+    - [x] Find the best path between two systems given the jump range of a ship.
+    - [x] Build aggregation of listings data to display, average cost of a given item, total supply, total demand, etc.
 
 
 ## Results ##
-
-### Query Comparisons ###
-TBD
-
-### Data Visualization ###
-TBD
-
-## Closing Notes ##
-TBD
+ See 'CombinedNotebook/Combined_Queries.ipynb'
